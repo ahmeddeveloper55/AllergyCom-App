@@ -1,6 +1,6 @@
 # minip
 
-Application Provide Complete Plan And Guide the people Who Got Celaic Disease(Allergy from Gluten ) So The app will act as handbook as I have same disease so i developed Flutter app With java spring boot as rest api and mongodb as database.
+AllergyCom is An Application That Provide Complete Plan And Guide to the people Who Got Celaic Disease(Allergy from Gluten ) So The app will act as handbook for them , It Will Give them Tips,New Recipes ,Figure out Hidden Gluten.
 
 the working : 
 
